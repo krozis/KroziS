@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <script src="https://tryhackme.com/badge/1538344"></script>
- TryHackMe
  
 [![stelie's 42 stats](https://badge42.vercel.app/api/v2/clb69o0ow00060fmo8rgb8exn/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
