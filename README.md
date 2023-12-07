@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 Actual circle projects left: webserv/ft_irc.
 
-- [ACTUAL WORKIN ON] [ft_irc](https://github.com/krozis/42_irc) (Creation of an IRC server in C++)
+- [ACTUALLY WORKIN ON] : [ft_irc](https://github.com/krozis/42_irc)  (Creation of an IRC server in C++98)
 - ⚡ Fun fact: Born on the towel day.
 
 [![stelie's 42 stats](squirrel.gif)]
